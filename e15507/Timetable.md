@@ -48,7 +48,7 @@
 ### Electronics Setup
 - [ ] Isolation test of chamber 5/20 (CN/FT)
 - [x] Move the other electronic rack to S2 5/20 (CN/FT)
-- [ ] Add the VME modules 5/20 (CN/FT)
+- [x] Add the VME modules 5/20 (CN/FT)
 - [ ] Verify IC electronics 5/22 (NC/FT)
 - [ ] Identify amount of attenuation needed for ICs 5/24 (AA)
 - [ ] Setup the DAQ again 5/24 (AA)
